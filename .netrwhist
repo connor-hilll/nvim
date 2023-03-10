@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/connor.hill/Documents/stratis/cs-portal/src/app/common/components'
+let g:netrw_dirhist_5='/Users/connor.hill/Documents/stratis/cs-portal/src/app/common'
+let g:netrw_dirhist_4='/Users/connor.hill/Documents/stratis/cs-portal/src/app'
+let g:netrw_dirhist_3='/Users/connor.hill/Documents/stratis/cs-portal/src'
+let g:netrw_dirhist_2='/Users/connor.hill/Documents/stratis/cs-portal'
+let g:netrw_dirhist_1='/Users/connor.hill/Documents/stratis/cs-portal/src/app/common/components'
+let g:netrw_dirhist_0='/Users/connor.hill/Documents/stratis/cs-portal/src/app/common'
+let g:netrw_dirhist_9='/Users/connor.hill/Documents/stratis/cs-portal/src/app'
+let g:netrw_dirhist_8='/Users/connor.hill/Documents/stratis/cs-portal/src'
+let g:netrw_dirhist_7='/Users/connor.hill/Documents/stratis/cs-portal'
